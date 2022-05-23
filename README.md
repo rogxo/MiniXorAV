@@ -1,0 +1,4 @@
+# MiniXorAV
+基于异或加密的迷你shellcode加载器
+
+可生成3KB大小的shellcode可执行文件
